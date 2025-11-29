@@ -1,0 +1,5 @@
+refresh-test: "Значение из TEST окружения"
+demo-message: "TEST версия конфига"
+message: "Привет из Config Server (TEST)"
+server:
+  port: 8081

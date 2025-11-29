@@ -1,0 +1,5 @@
+refresh-test: "Значение из MASTER окружения"
+demo-message: "MASTER версия конфига"
+message: "Привет из Config Server (MASTER)"
+server:
+  port: 8082
