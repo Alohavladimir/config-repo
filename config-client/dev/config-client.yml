@@ -1,4 +1,4 @@
-refresh-test: "Значение из DEV окружения ИЗМЕНЕНО ЧЕРЕЗ GITHUB"
+refresh-test: "Значение из DEV окружения ИЗМЕНЕНО ЧЕРЕЗ GITHUB 2 РАЗА"
 demo-message: "DEV версия конфига"
 message: "Привет из Config Server (DEV)"
 server:
