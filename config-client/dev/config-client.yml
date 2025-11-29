@@ -2,4 +2,4 @@ refresh-test: "Значение из DEV окружения"
 demo-message: "DEV версия конфига"
 message: "Привет из Config Server (DEV)"
 server:
-  port: 8080
+  port: 8089
